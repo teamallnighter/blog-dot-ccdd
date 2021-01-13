@@ -1,16 +1,17 @@
 ---
 title: "Adding Facebook Messanger To Your Website"
-categories:
-  - Facebook
+layout: post
+date: 2020-09-18 22:48
+category: blog
 comments: true
 tags:
   - Facebook
   - Facebook Messanger
-last_modified_at: 2020-09-19T08:25:52-05:00
-excerpt: "Facebook messanger is a powerful platform and can be integrated into your website REALLY easily"
-author: "Chris Connelly"
-image:
-  path: /assets/images/fbmsg.png
+last_modified_at: 2020-09-18T08:25:52-05:00
+excerpt: Facebook messanger is a powerful platform and can be integrated into your website REALLY easily.
+author: Chris Connelly
+image: /assets/images/fbmsg.png
+headerImage: true
 ---
 
 ## Facebook Messanger

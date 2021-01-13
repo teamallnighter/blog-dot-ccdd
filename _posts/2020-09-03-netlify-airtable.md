@@ -1,24 +1,16 @@
 ---
 title: "Netlify, Airtable and React App"
-sub_title: "This app uses air table as a database"
-categories:
-  - Airtable
-  - Netlify
-comments: true
-tags:
-  - Netlify Functions
-  - Jamstack
-  - Static Site Generators
-  - Netlify
-  - React
-  - Air Table
-  
-last_modified_at: 2020-09-03T08:25:52-05:00
-excerpt: "This app doesnt require you to know a programming language to admin your database"
-author: "Chris Connelly"
-description: "This app doesnt require you to know a programming language to admin your database"
-image:
-  path: /assets/images/cover.png
+layout: post
+date: 2020-09-03 22:10
+tag: Airtable
+image: /assets/images/cover.png
+headerImage: true
+projects: true
+hidden: false # don't count this post in blog pagination
+description: "A web application that generates proposals"
+category: project
+author: chrisconnelly
+externalLink: false
 ---
 
 This app uses [Air Table](https://airtable.com), [Netlify](https://netlify.com) and [React](https://reactjs.org/) to update data. Normally you would need a programming language to update your database on the back end. 
