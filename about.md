@@ -4,43 +4,29 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h1>Hello World, my name is Chris Connelly</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I've always been into computer, website building, ect ect.... but, I alwys worked for the family biz. Until one day I quit after 15 years, went back to school in my thirties and, started my freelance web dev company.</p>
 
+<p>Web development... well it's my thing. I frickin love it. I challenge you to find someone who loves their job as much as me!</p>
+
+<p>I spend hours every day building websites/web apps for awesome folks who also run small and medium sized companies.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
+	<li>HTML - pug - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+ <li>CSS (Stylus, Sass, Less)</li>
+ <li>Css Frameworks (Bootstrap, Foundation, Codyhouse, Material)</li>
+ <li>Javascript (Vanilla, Riotjs, ReactJS, SvelteJS)</li>
+ <li>NodeJS</li>
+	<li>Grunt - Gulp</li>
+	<li>Git - Github</li>
+ <li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
+ <li>MySQL - MongoDB - Firebase</li>
+ <li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
